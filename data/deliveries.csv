@@ -1,0 +1,4 @@
+id,cargo,source,destination,priority,status
+1,Medical Supplies,Guwahati,Imphal,Critical,Pending
+2,Food Supplies,Guwahati,Shillong,High,In Transit
+3,Electronic Equipment,Agartala,Aizawl,Normal,Delivered

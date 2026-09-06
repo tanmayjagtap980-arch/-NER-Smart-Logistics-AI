@@ -1,0 +1,9 @@
+id,name,state,latitude,longitude,type,accessibility
+1,Guwahati,Assam,26.1445,91.7362,City,90
+2,Shillong,Meghalaya,25.5788,91.8933,City,75
+3,Imphal,Manipur,24.8170,93.9368,City,65
+4,Aizawl,Mizoram,23.7271,92.7176,City,60
+5,Kohima,Nagaland,25.6751,94.1086,City,65
+6,Agartala,Tripura,23.8315,91.2868,City,80
+7,Gangtok,Sikkim,27.3389,88.6065,City,70
+8,Itanagar,Arunachal Pradesh,27.0844,93.6053,City,55

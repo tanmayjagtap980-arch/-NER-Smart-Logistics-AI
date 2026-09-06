@@ -1,0 +1,7 @@
+id,source,destination,distance_km,road_quality,flood_risk,landslide_risk
+1,Guwahati,Shillong,100,80,20,25
+2,Shillong,Imphal,400,60,40,50
+3,Guwahati,Itanagar,330,65,30,45
+4,Guwahati,Agartala,550,75,25,20
+5,Shillong,Kohima,250,60,35,45
+6,Imphal,Kohima,140,55,40,55
